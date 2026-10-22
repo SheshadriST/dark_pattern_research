@@ -1,0 +1,14 @@
+group,pattern,key,n_visits,first_count,last_count,mean_count,pct_visits_present,status
+airbnb.co.in/,Nagging popups,nagging,10,0,0,0.2,20,intermittent
+apple.com/store,Urgency,urgency,11,2,2,2.0,100,persistent
+bigbasket.com/,Nagging popups,nagging,10,2,0,0.4,20,intermittent
+brightdata.com/lp/web-data/ecommerce-web-data-2,Nagging popups,nagging,10,0,0,0.3,30,intermittent
+commerce.utah.gov/,Visual asymmetry,visualAsymmetry,10,1,1,1.0,100,persistent
+commerce.utah.gov/,Nagging popups,nagging,10,2,3,2.2,100,persistent
+commerce.utah.gov/about-commerce/,Nagging popups,nagging,3,2,2,2.0,100,persistent
+dribbble.com/tags/ecommerce,Nagging popups,nagging,10,54,0,26.6,50,intermittent
+intershop.com/en/,Visual asymmetry,visualAsymmetry,10,4,5,4.4,100,persistent
+ippbonline.bank.in/web/ippb/personal,Nagging popups,nagging,3,5,5,5.0,100,persistent
+nykaa.com/,Urgency,urgency,10,1,1,1.0,100,persistent
+pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/,Visual asymmetry,visualAsymmetry,10,1,1,1.0,100,persistent
+quora.com/Is-GeeksforGeeks-good-for-learning-DSA,Urgency,urgency,10,2,0,0.8,40,intermittent

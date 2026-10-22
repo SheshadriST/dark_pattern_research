@@ -1,0 +1,5392 @@
+{
+  "exportedAt": 1791827931889,
+  "history": [
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5jyp29wmdd",
+      "timestamp": 1791827731305,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5jz8965odq",
+      "timestamp": 1791827755785,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5jzko9n9zz",
+      "timestamp": 1791827771877,
+      "totalScore": 1,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k01nyvkka",
+      "timestamp": 1791827793902,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k0e9ame8h",
+      "timestamp": 1791827810223,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k0pm49x1b",
+      "timestamp": 1791827824957,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k12ottj1a",
+      "timestamp": 1791827841886,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k1ov642z2",
+      "timestamp": 1791827870633,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k21qbeyw8",
+      "timestamp": 1791827887295,
+      "totalScore": 1,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k2i7lj042",
+      "timestamp": 1791827908679,
+      "totalScore": 0,
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5idwfm5z5c",
+      "timestamp": 1791825081266,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "2 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/Amazon-Video/b/",
+      "sessionId": "mv5ie96ugs2s",
+      "timestamp": 1791825098246,
+      "totalScore": 2,
+      "url": "https://www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/deals",
+      "sessionId": "mv5ieeoh7agd",
+      "timestamp": 1791825104733,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/deals?ref_=nav_cs_coupons&bubble-id=deals-collection-coupons"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/b/",
+      "sessionId": "mv5iexpn6rtd",
+      "timestamp": 1791825129403,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5ifmwte3gd",
+      "timestamp": 1791825162066,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/gift-cards/b/",
+      "sessionId": "mv5ightx61aw",
+      "timestamp": 1791825202134,
+      "totalScore": 1,
+      "url": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/gp/help/customer/display.html",
+      "sessionId": "mv5igng7d9zb",
+      "timestamp": 1791825209426,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/registries",
+      "sessionId": "mv5igxo7q9tz",
+      "timestamp": 1791825222903,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/registries?ref_=nav_cs_registry"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5ih98dkevb",
+      "timestamp": 1791825237655,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/gp/help/customer/display.html",
+      "sessionId": "mv5ihuk9c4a8",
+      "timestamp": 1791825265292,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice"
+    },
+    {
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/deals",
+      "sessionId": "mv5ii5jf263m",
+      "timestamp": 1791825279518,
+      "totalScore": 0,
+      "url": "https://www.amazon.com/deals?ref_=nav_cs_coupons&bubble-id=deals-collection-coupons"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "2 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jjrfsnp1d",
+      "timestamp": 1791827035788,
+      "totalScore": 2,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jk7a8oug0",
+      "timestamp": 1791827054833,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jkhzee91w",
+      "timestamp": 1791827068773,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jksyxlbpf",
+      "timestamp": 1791827082992,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jl32japy2",
+      "timestamp": 1791827096102,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jlp5ghcry",
+      "timestamp": 1791827124667,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/pc/electronics/audio-devices/earbuds/",
+      "sessionId": "mv5jlzjfnmdc",
+      "timestamp": 1791827138077,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/pc/electronics/audio-devices/earbuds/?nc=nb"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jmbmcpji1",
+      "timestamp": 1791827153776,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jmlf38ckf",
+      "timestamp": 1791827166450,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "2 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jn4zk0jhg",
+      "timestamp": 1791827191836,
+      "totalScore": 2,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "timestamp": 1791827207532,
+      "totalScore": 0,
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "categories": {},
+      "domain": "booking.com",
+      "path": "/index.en-gb.html",
+      "sessionId": "mv5jd4ci17sc",
+      "timestamp": 1791826724339,
+      "totalScore": 0,
+      "url": "https://www.booking.com/index.en-gb.html?aid=355028&label=mkt123sc-b384997c-e2dc-43e9-9e6e-68956d2b89ac&chal_t=1791826716158&force_referer="
+    },
+    {
+      "categories": {},
+      "domain": "booking.com",
+      "path": "/index.en-gb.html",
+      "sessionId": "mv5jdr6qm143",
+      "timestamp": 1791826753898,
+      "totalScore": 0,
+      "url": "https://www.booking.com/index.en-gb.html?aid=355028&label=mkt123sc-b384997c-e2dc-43e9-9e6e-68956d2b89ac&chal_t=1791826716158&force_referer="
+    },
+    {
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/",
+      "sessionId": "mv5imc66zthq",
+      "timestamp": 1791825474729,
+      "totalScore": 0,
+      "url": "https://www.cashify.in/"
+    },
+    {
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-refurbished-gadgets",
+      "sessionId": "mv5impfb0np9",
+      "timestamp": 1791825491906,
+      "totalScore": 0,
+      "url": "https://www.cashify.in/buy-refurbished-gadgets"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 54,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "54 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jslsx6zik",
+      "timestamp": 1791827446762,
+      "totalScore": 54,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jtfo90p4p",
+      "timestamp": 1791827485750,
+      "totalScore": 0,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 53,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "53 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5ju6c9lbrs",
+      "timestamp": 1791827520036,
+      "totalScore": 53,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 28,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "28 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jugands52",
+      "timestamp": 1791827537852,
+      "totalScore": 28,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jur4gues1",
+      "timestamp": 1791827546955,
+      "totalScore": 0,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jv4pfxj3c",
+      "timestamp": 1791827564567,
+      "totalScore": 0,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jvdbila78",
+      "timestamp": 1791827575728,
+      "totalScore": 0,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 50,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "50 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jvknti6b0",
+      "timestamp": 1791827585247,
+      "totalScore": 50,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 81,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "81 popup-like element(s) appeared within 5s"
+          ]
+        }
+      },
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jvtos4mvn",
+      "timestamp": 1791827596935,
+      "totalScore": 81,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jw5voohob",
+      "timestamp": 1791827612738,
+      "totalScore": 0,
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/hire",
+      "sessionId": "mv5jwxomkokd",
+      "timestamp": 1791827648769,
+      "totalScore": 0,
+      "url": "https://dribbble.com/hire"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses",
+      "sessionId": "mv5j3ynpz33l",
+      "timestamp": 1791826297857,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses/category/dsa-placements",
+      "sessionId": "mv5j4dal1rbx",
+      "timestamp": 1791826316488,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/courses/category/dsa-placements?_gl=1*16o8f7q*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses/category/data-analytics-data-science",
+      "sessionId": "mv5j4r988mcy",
+      "timestamp": 1791826334696,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/courses/category/data-analytics-data-science?_gl=1*g9hne7*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/jobs",
+      "sessionId": "mv5j51g39cwn",
+      "timestamp": 1791826347291,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/jobs?_gl=1*g9hne7*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq&tab_type=all_jobs"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "sessionId": "mv5j7toyqcci",
+      "timestamp": 1791826477668,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses/category/dsa-placements",
+      "sessionId": "mv5j84x07qhq",
+      "timestamp": 1791826492277,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/courses/category/dsa-placements?_gl=1*1aeo4ho*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses/category/dsa-placements",
+      "sessionId": "mv5j8pouv99c",
+      "timestamp": 1791826519782,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/courses/category/dsa-placements?_gl=1*v94tes*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "timestamp": 1791826577578,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/problem-of-the-day",
+      "sessionId": "mv5jes33ez7g",
+      "timestamp": 1791826802236,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/problem-of-the-day"
+    },
+    {
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5jqbejpb80",
+      "timestamp": 1791827340754,
+      "totalScore": 0,
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jf6qf02a4",
+      "timestamp": 1791826820748,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jfjoq7zp0",
+      "timestamp": 1791826837526,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jg3u3gewo",
+      "timestamp": 1791826863644,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jgda43mf5",
+      "timestamp": 1791826875887,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jgmwb52qy",
+      "timestamp": 1791826888351,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jgw8bqj5w",
+      "timestamp": 1791826900450,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jhf2wrdfm",
+      "timestamp": 1791826924885,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jhq65by36",
+      "timestamp": 1791826939252,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5ji55kmmzt",
+      "timestamp": 1791826958663,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jip5j52a7",
+      "timestamp": 1791826984591,
+      "totalScore": 1,
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4e2uc3ifk",
+      "timestamp": 1792345771185,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4fjw14mth",
+      "timestamp": 1792345839966,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ht4kvcvv",
+      "timestamp": 1792345945490,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4mgp5mtos",
+      "timestamp": 1792346162457,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_pricing",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4q6okt2ky",
+      "timestamp": 1792346336172,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Talk With a Data Expert Let’s have a quick chat about the data you need so"
+          ]
+        }
+      },
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4r8xwkq9w",
+      "timestamp": 1792346385673,
+      "totalScore": 1,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4rr4kbbfk",
+      "timestamp": 1792346409234,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Join 50,000+ Satisfied Customers Today! “Bright Data helped us collect eno"
+          ]
+        }
+      },
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4snmkm963",
+      "timestamp": 1792346451343,
+      "totalScore": 1,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Join 50,000+ Satisfied Customers Today! “Bright Data helped us collect eno"
+          ]
+        }
+      },
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4tu5256td",
+      "timestamp": 1792346506433,
+      "totalScore": 1,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4usyceo0l",
+      "timestamp": 1792346551633,
+      "totalScore": 0,
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4f69nrrml",
+      "timestamp": 1792345822364,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4hbpcrb42",
+      "timestamp": 1792345922238,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4lo1yzw7n",
+      "timestamp": 1792346124868,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4opns1pm7",
+      "timestamp": 1792346266607,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ploqaxhf",
+      "timestamp": 1792346309013,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4qtbi95zr",
+      "timestamp": 1792346364978,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 3,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "About Commerce Leadership Plans and Reports Programs We Administer Commerce Cont",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4s5wsvtbe",
+      "timestamp": 1792346428304,
+      "totalScore": 4,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/about-commerce/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4tcgon9q0",
+      "timestamp": 1792346482760,
+      "totalScore": 2,
+      "url": "https://commerce.utah.gov/about-commerce/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4t8brxdxp",
+      "timestamp": 1792346486988,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/about-commerce/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ufbrhvl1",
+      "timestamp": 1792346533115,
+      "totalScore": 2,
+      "url": "https://commerce.utah.gov/about-commerce/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4uaz4glub",
+      "timestamp": 1792346535235,
+      "totalScore": 3,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "Close search modal"
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/about-commerce/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4vg1j5cef",
+      "timestamp": 1792346580707,
+      "totalScore": 2,
+      "url": "https://commerce.utah.gov/about-commerce/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 3,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Official Utah websites use utah.gov in the browser's address bar. A Utah.gov web",
+            "About Commerce Leadership Plans and Reports Programs We Administer Commerce Cont",
+            "Close search modal"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4vdlxmp4e",
+      "timestamp": 1792346580764,
+      "totalScore": 4,
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve41al78yuz",
+      "timestamp": 1792345173859,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve42a0hz6ds",
+      "timestamp": 1792345219768,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4371vzjvz",
+      "timestamp": 1792345262586,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve443r5b996",
+      "timestamp": 1792345304967,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve44s1bz9vq",
+      "timestamp": 1792345336439,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 4,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Accept all technologies\" is ~24.3x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve45csvrfit",
+      "timestamp": 1792345363348,
+      "totalScore": 4,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve45zinzgr1",
+      "timestamp": 1792345392792,
+      "totalScore": 5,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve46dr73hmy",
+      "timestamp": 1792345411237,
+      "totalScore": 5,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve46stxa0j0",
+      "timestamp": 1792345430778,
+      "totalScore": 5,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "timestamp": 1792345445456,
+      "totalScore": 5,
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4wh5a2xmt",
+      "timestamp": 1792346629953,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 4,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Know More",
+            "Know More",
+            "Know More"
+          ]
+        }
+      },
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/merchant",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4wymg5w2p",
+      "timestamp": 1792346651447,
+      "totalScore": 4,
+      "url": "https://ippbonline.bank.in/web/ippb/merchant",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/agent",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4xddorax5",
+      "timestamp": 1792346670457,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/agent",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4xs9ba8hn",
+      "timestamp": 1792346689746,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 5,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Know More",
+            "Know More",
+            "Know More"
+          ]
+        }
+      },
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4y09piler",
+      "timestamp": 1792346700409,
+      "totalScore": 5,
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ygxrjgla",
+      "timestamp": 1792346721871,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 4,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Know More",
+            "Know More",
+            "Know More"
+          ]
+        }
+      },
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/merchant",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ympqxxuv",
+      "timestamp": 1792346729216,
+      "totalScore": 4,
+      "url": "https://ippbonline.bank.in/web/ippb/merchant",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4yyexze8y",
+      "timestamp": 1792346744380,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/agent",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4z3j4znzv",
+      "timestamp": 1792346751113,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/agent",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 5,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Know More",
+            "Know More",
+            "Know More"
+          ]
+        }
+      },
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4znsaihce",
+      "timestamp": 1792346777359,
+      "totalScore": 5,
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4zuezr3ym",
+      "timestamp": 1792346785856,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve501eorsux",
+      "timestamp": 1792346794918,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/agent",
+      "rulesVersion": "2.0",
+      "sessionId": "mve50co4dui1",
+      "timestamp": 1792346809592,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/agent",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve50pks8juf",
+      "timestamp": 1792346826252,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/agent",
+      "rulesVersion": "2.0",
+      "sessionId": "mve51a4ex3rs",
+      "timestamp": 1792346852869,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/agent",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/virtual-debit-card",
+      "rulesVersion": "2.0",
+      "sessionId": "mve51gzbsb33",
+      "timestamp": 1792346861758,
+      "totalScore": 0,
+      "url": "https://ippbonline.bank.in/web/ippb/virtual-debit-card",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "nagging": {
+          "count": 5,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Know More",
+            "Know More",
+            "Know More"
+          ]
+        }
+      },
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve51mi1ygi8",
+      "timestamp": 1792346868998,
+      "totalScore": 5,
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve52ea2yjxu",
+      "timestamp": 1792346905550,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve52tv18qdv",
+      "timestamp": 1792346925110,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve53c349t2g",
+      "timestamp": 1792346948778,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve538ry42fb",
+      "timestamp": 1792346956185,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve53q82400s",
+      "timestamp": 1792346967053,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/category/sales/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve547doph03",
+      "timestamp": 1792346989991,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/category/sales/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve545nv2wpk",
+      "timestamp": 1792346992753,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve54ghuoz7y",
+      "timestamp": 1792347001099,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve54vbve6sy",
+      "timestamp": 1792347021570,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve552np57jg",
+      "timestamp": 1792347030272,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve559ag13ni",
+      "timestamp": 1792347038418,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve55ofq5908",
+      "timestamp": 1792347058042,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/category/career-in-pharma/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve55x3wzwcg",
+      "timestamp": 1792347069899,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/category/career-in-pharma/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/category/pharma-question-for-interview/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve5688zuquh",
+      "timestamp": 1792347084296,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/category/pharma-question-for-interview/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/category/pharma-franchise-business/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve562xxoi8b",
+      "timestamp": 1792347084738,
+      "totalScore": 2,
+      "url": "http://pharmahelp.in/category/pharma-franchise-business/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "smartcommerce.amazon.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/smartbiz/ecommerce-website-builder",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4eemvdw88",
+      "timestamp": 1792345785632,
+      "totalScore": 0,
+      "url": "https://smartcommerce.amazon.in/smartbiz/ecommerce-website-builder?utm_source=google&utm_campaign=ADL-002-Lead-Search-Non-Brand&utm_medium=cpc&ref_marker=ADL-002-A07-Website-ecommerce%20website&gad_source=1&gad_campaignid=22153915181&gbraid=0AAAAAo0H34J_ZSEfIZKpn97iSzaLbgz5_&gclid=CjwKCAjw3NHWBhANEiwAtpwId9zB8ZjDefIVnrLdE7ARfeEZDmQ21nRH9EMIUil5bUaXw4igOYxt3RoCwUkQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "smartcommerce.amazon.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/smartbiz/ecommerce-website-builder",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4gh0htt4a",
+      "timestamp": 1792345882032,
+      "totalScore": 0,
+      "url": "https://smartcommerce.amazon.in/smartbiz/ecommerce-website-builder?utm_source=google&utm_campaign=ADL-002-Lead-Search-Non-Brand&utm_medium=cpc&ref_marker=ADL-002-A07-Website-ecommerce%20website&gad_source=1&gad_campaignid=22153915181&gbraid=0AAAAAo0H34J_ZSEfIZKpn97iSzaLbgz5_&gclid=CjwKCAjw3NHWBhANEiwAtpwId9zB8ZjDefIVnrLdE7ARfeEZDmQ21nRH9EMIUil5bUaXw4igOYxt3RoCwUkQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "smartcommerce.amazon.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/smartbiz/ecommerce-website-builder",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4jh7dxmlx",
+      "timestamp": 1792346025484,
+      "totalScore": 0,
+      "url": "https://smartcommerce.amazon.in/smartbiz/ecommerce-website-builder?utm_source=google&utm_campaign=ADL-002-Lead-Search-Non-Brand&utm_medium=cpc&ref_marker=ADL-002-A07-Website-ecommerce%20website&gad_source=1&gad_campaignid=22153915181&gbraid=0AAAAAo0H34J_ZSEfIZKpn97iSzaLbgz5_&gclid=CjwKCAjw3NHWBhANEiwAtpwId9zB8ZjDefIVnrLdE7ARfeEZDmQ21nRH9EMIUil5bUaXw4igOYxt3RoCwUkQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "smartcommerce.amazon.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/smartbiz/ecommerce-website-builder",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4n10id6wb",
+      "timestamp": 1792346200541,
+      "totalScore": 0,
+      "url": "https://smartcommerce.amazon.in/smartbiz/ecommerce-website-builder?utm_source=google&utm_campaign=ADL-002-Lead-Search-Non-Brand&utm_medium=cpc&ref_marker=ADL-002-A07-Website-ecommerce%20website&gad_source=1&gad_campaignid=22153915181&gbraid=0AAAAAo0H34J_ZSEfIZKpn97iSzaLbgz5_&gclid=CjwKCAjw3NHWBhANEiwAtpwId9zB8ZjDefIVnrLdE7ARfeEZDmQ21nRH9EMIUil5bUaXw4igOYxt3RoCwUkQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {},
+      "domain": "upwork.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/resources/ecommerce-website-examples",
+      "rulesVersion": "2.0",
+      "sessionId": "mve44kkbex2e",
+      "timestamp": 1792345327129,
+      "totalScore": 0,
+      "url": "https://www.upwork.com/resources/ecommerce-website-examples",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqdj1glvin",
+      "timestamp": 1792382696505,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqfdew1s8p",
+      "timestamp": 1792382782422,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqfrpvq3pj",
+      "timestamp": 1792382800907,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {},
+      "domain": "apple.com",
+      "path": "/watch/",
+      "sessionId": "mveqg182p7g2",
+      "timestamp": 1792382813189,
+      "totalScore": 0,
+      "url": "https://www.apple.com/watch/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqgjh9dilm",
+      "timestamp": 1792382836862,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {},
+      "domain": "apple.com",
+      "path": "/watch/",
+      "sessionId": "mveqh9lbyw4a",
+      "timestamp": 1792382870737,
+      "totalScore": 0,
+      "url": "https://www.apple.com/watch/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqh5ws3dz5",
+      "timestamp": 1792382877512,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqhkyyl7ys",
+      "timestamp": 1792382885540,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {},
+      "domain": "apple.com",
+      "path": "/apple-vision-pro/",
+      "sessionId": "mveqi0amwe0a",
+      "timestamp": 1792382905222,
+      "totalScore": 0,
+      "url": "https://www.apple.com/apple-vision-pro/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqimjgf7g2",
+      "timestamp": 1792382938888,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqiv4oeacs",
+      "timestamp": 1792382945288,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqj5776u1u",
+      "timestamp": 1792382960074,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {},
+      "domain": "apple.com",
+      "path": "/apple-vision-pro/",
+      "sessionId": "mveqjh8z9qfs",
+      "timestamp": 1792382973845,
+      "totalScore": 0,
+      "url": "https://www.apple.com/apple-vision-pro/"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqjf7jjcsq",
+      "timestamp": 1792382985677,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqjv7ygehk",
+      "timestamp": 1792382992066,
+      "totalScore": 2,
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mveqyri77vkp",
+      "timestamp": 1792383688166,
+      "totalScore": 2,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mveqz5vuq7u2",
+      "timestamp": 1792383705606,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mveqzh4vwbsn",
+      "timestamp": 1792383720521,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mveqzy0dxhtc",
+      "timestamp": 1792383742056,
+      "totalScore": 2,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver09ic4km3",
+      "timestamp": 1792383756962,
+      "totalScore": 2,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver0mr47e9z",
+      "timestamp": 1792383774121,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver0wtjeir7",
+      "timestamp": 1792383787170,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver15dm9i7b",
+      "timestamp": 1792383798677,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1gljt3eh",
+      "timestamp": 1792383813144,
+      "totalScore": 2,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "timestamp": 1792383824538,
+      "totalScore": 0,
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "categories": {},
+      "domain": "sell.do",
+      "path": "/",
+      "sessionId": "mveqlb7bxggr",
+      "timestamp": 1792383059339,
+      "totalScore": 0,
+      "url": "https://www.sell.do/"
+    },
+    {
+      "categories": {},
+      "domain": "squarespace.com",
+      "path": "/go/build-a-website/in",
+      "sessionId": "mveqklm1j4c7",
+      "timestamp": 1792383026381,
+      "totalScore": 0,
+      "url": "https://www.squarespace.com/go/build-a-website/in?channel=pnb&subchannel=go&campaign=23803337437&subcampaign=196705557555_kwd-12569531_e&source=&gclsrc=aw.ds&gad_source=1&gad_campaignid=23803337437&gbraid=0AAAAADxS_FILwU0IzgDTc3LUczAQQxx5d&gclid=CjwKCAjw3NHWBhANEiwAtpwIdyEoEXxzyel6M5AR4VLYpJQVWntfOc1FnkXsnFZJOgvo25dEss2X7BoCPBgQAvD_BwE"
+    },
+    {
+      "categories": {},
+      "domain": "support.apple.com",
+      "path": "/",
+      "sessionId": "mveqiodv2056",
+      "timestamp": 1792382936437,
+      "totalScore": 0,
+      "url": "https://support.apple.com/"
+    }
+  ],
+  "activity": [
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5jyp29wmdd",
+      "step": 1,
+      "timestamp": 1791827738306,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5jzko9n9zz",
+      "step": 1,
+      "timestamp": 1791827774210,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k0pm49x1b",
+      "step": 1,
+      "timestamp": 1791827826173,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.airbnb.co.in/?source=ads&locale=en&currency=INR&source=ads&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/homes",
+      "sessionId": "mv5k12ottj1a",
+      "step": 1,
+      "timestamp": 1791827849413,
+      "totalScore": 1,
+      "trigger": "Homes Homes",
+      "url": "https://www.airbnb.co.in/homes?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/homes",
+      "sessionId": "mv5k12ottj1a",
+      "step": 2,
+      "timestamp": 1791827851759,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/homes?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/services",
+      "sessionId": "mv5k12ottj1a",
+      "step": 3,
+      "timestamp": 1791827857286,
+      "totalScore": 1,
+      "trigger": "Services Services",
+      "url": "https://www.airbnb.co.in/services?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/services",
+      "sessionId": "mv5k12ottj1a",
+      "step": 4,
+      "timestamp": 1791827858964,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/services?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/experiences",
+      "sessionId": "mv5k1ov642z2",
+      "step": 1,
+      "timestamp": 1791827873073,
+      "totalScore": 1,
+      "trigger": "Experiences Experiences",
+      "url": "https://www.airbnb.co.in/experiences?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/experiences",
+      "sessionId": "mv5k1ov642z2",
+      "step": 2,
+      "timestamp": 1791827875305,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/experiences?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/experiences",
+      "sessionId": "mv5k2i7lj042",
+      "step": 1,
+      "timestamp": 1791827910284,
+      "totalScore": 1,
+      "trigger": "Experiences Experiences",
+      "url": "https://www.airbnb.co.in/experiences?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/experiences",
+      "sessionId": "mv5k2i7lj042",
+      "step": 2,
+      "timestamp": 1791827912208,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/experiences?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/services",
+      "sessionId": "mv5k2i7lj042",
+      "step": 3,
+      "timestamp": 1791827913322,
+      "totalScore": 1,
+      "trigger": "Services Services",
+      "url": "https://www.airbnb.co.in/services?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/services",
+      "sessionId": "mv5k2i7lj042",
+      "step": 4,
+      "timestamp": 1791827915058,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/services?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "airbnb.co.in",
+      "path": "/homes",
+      "sessionId": "mv5k2i7lj042",
+      "step": 5,
+      "timestamp": 1791827916222,
+      "totalScore": 1,
+      "trigger": "Homes Homes",
+      "url": "https://www.airbnb.co.in/homes?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/homes",
+      "sessionId": "mv5k2i7lj042",
+      "step": 6,
+      "timestamp": 1791827917907,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.airbnb.co.in/homes?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "airbnb.co.in",
+      "path": "/",
+      "sessionId": "mv5k2i7lj042",
+      "step": 7,
+      "timestamp": 1791827919003,
+      "totalScore": 0,
+      "trigger": "All All",
+      "url": "https://www.airbnb.co.in/?source%5B%5D=ads&source%5B%5D=ads&locale=en&currency=INR&c=.pi0.pk22323507540_179008573169&gad_source=1&gad_campaignid=22323507540&gbraid=0AAAAADz55LnbQCxrJxjEb6m0XwK79LfRM&gclid=CjwKCAjwirLWBhBBEiwAlItbEiLECC-Y2b31-q1cnOE8LRE3JZIYTgqZRm7TcQQxs_HH3vNmTWyoUBoC4XAQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/b/",
+      "sessionId": "mv5iexpn6rtd",
+      "step": 1,
+      "timestamp": 1791825136484,
+      "totalScore": 1,
+      "trigger": "<div>",
+      "url": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/b/",
+      "sessionId": "mv5iexpn6rtd",
+      "step": 2,
+      "timestamp": 1791825137364,
+      "totalScore": 1,
+      "trigger": "button",
+      "url": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/b/",
+      "sessionId": "mv5iexpn6rtd",
+      "step": 3,
+      "timestamp": 1791825138955,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5ifmwte3gd",
+      "step": 1,
+      "timestamp": 1791825182919,
+      "totalScore": 1,
+      "trigger": "button",
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5ifmwte3gd",
+      "step": 2,
+      "timestamp": 1791825184512,
+      "totalScore": 0,
+      "trigger": "Coupons",
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/",
+      "sessionId": "mv5ih98dkevb",
+      "step": 1,
+      "timestamp": 1791825249777,
+      "totalScore": 1,
+      "trigger": "Coupons",
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "amazon.com",
+      "path": "/gp/help/customer/display.html",
+      "sessionId": "mv5ihuk9c4a8",
+      "step": 1,
+      "timestamp": 1791825272779,
+      "totalScore": 1,
+      "trigger": "Coupons",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jjrfsnp1d",
+      "step": 1,
+      "timestamp": 1791827037132,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "2 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jl32japy2",
+      "step": 1,
+      "timestamp": 1791827101170,
+      "totalScore": 2,
+      "trigger": "<path>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jl32japy2",
+      "step": 2,
+      "timestamp": 1791827103378,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jl32japy2",
+      "step": 3,
+      "timestamp": 1791827105029,
+      "totalScore": 0,
+      "trigger": "Delivery in 10 mins Select Location",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jl32japy2",
+      "step": 4,
+      "timestamp": 1791827106489,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jlp5ghcry",
+      "step": 1,
+      "timestamp": 1791827125465,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/pc/beverages/tea/",
+      "sessionId": "mv5jmlf38ckf",
+      "step": 1,
+      "timestamp": 1791827172037,
+      "totalScore": 0,
+      "trigger": "Tea Tea",
+      "url": "https://www.bigbasket.com/pc/beverages/tea/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/pc/foodgrains-oil-masala/edible-oils-ghee/ghee-vanaspati/",
+      "sessionId": "mv5jmlf38ckf",
+      "step": 2,
+      "timestamp": 1791827174885,
+      "totalScore": 0,
+      "trigger": "Ghee Ghee",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/ghee-vanaspati/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/pb/nandini/",
+      "sessionId": "mv5jmlf38ckf",
+      "step": 3,
+      "timestamp": 1791827177340,
+      "totalScore": 0,
+      "trigger": "Nandini Nandini",
+      "url": "https://www.bigbasket.com/pb/nandini/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jn4zk0jhg",
+      "step": 1,
+      "timestamp": 1791827198398,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "step": 1,
+      "timestamp": 1791827215822,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://www.bigbasket.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 2,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "2 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "step": 2,
+      "timestamp": 1791827216626,
+      "totalScore": 2,
+      "trigger": "<path>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "step": 3,
+      "timestamp": 1791827218228,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "step": 4,
+      "timestamp": 1791827223015,
+      "totalScore": 0,
+      "trigger": "Delivery in 10 mins Select Location",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "bigbasket.com",
+      "path": "/",
+      "sessionId": "mv5jnh2lm2mi",
+      "step": 5,
+      "timestamp": 1791827226388,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.bigbasket.com/?next=%2Fbasket%2F%3Fnc%3Dnb"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "booking.com",
+      "path": "/index.en-gb.html",
+      "sessionId": "mv5jd4ci17sc",
+      "step": 1,
+      "timestamp": 1791826729360,
+      "totalScore": 0,
+      "trigger": "Dismiss sign in information.",
+      "url": "https://www.booking.com/index.en-gb.html?aid=355028&label=mkt123sc-b384997c-e2dc-43e9-9e6e-68956d2b89ac&chal_t=1791826716158&force_referer="
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "booking.com",
+      "path": "/index.en-gb.html",
+      "sessionId": "mv5jd4ci17sc",
+      "step": 2,
+      "timestamp": 1791826739322,
+      "totalScore": 0,
+      "trigger": "Flights",
+      "url": "https://www.booking.com/index.en-gb.html?aid=355028&label=mkt123sc-b384997c-e2dc-43e9-9e6e-68956d2b89ac&chal_t=1791826716158&force_referer="
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "booking.com",
+      "path": "/index.en-gb.html",
+      "sessionId": "mv5jdr6qm143",
+      "step": 1,
+      "timestamp": 1791826770782,
+      "totalScore": 0,
+      "trigger": "Dismiss sign in information.",
+      "url": "https://www.booking.com/index.en-gb.html?aid=355028&label=mkt123sc-b384997c-e2dc-43e9-9e6e-68956d2b89ac&chal_t=1791826716158&force_referer="
+    },
+    {
+      "action": "accept",
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-accessories",
+      "sessionId": "mv5impfb0np9",
+      "step": 1,
+      "timestamp": 1791825493262,
+      "totalScore": 0,
+      "trigger": "Buy New Accessories",
+      "url": "https://www.cashify.in/buy-accessories"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-accessories",
+      "sessionId": "mv5impfb0np9",
+      "step": 2,
+      "timestamp": 1791825500546,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.cashify.in/buy-accessories"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-accessories",
+      "sessionId": "mv5impfb0np9",
+      "step": 3,
+      "timestamp": 1791825502796,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.cashify.in/buy-accessories"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-accessories",
+      "sessionId": "mv5impfb0np9",
+      "step": 4,
+      "timestamp": 1791825503520,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.cashify.in/buy-accessories"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "cashify.in",
+      "path": "/buy-refurbished-laptops",
+      "sessionId": "mv5impfb0np9",
+      "step": 5,
+      "timestamp": 1791825507461,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.cashify.in/buy-refurbished-laptops"
+    },
+    {
+      "action": "accept",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jslsx6zik",
+      "step": 1,
+      "timestamp": 1791827457765,
+      "totalScore": 0,
+      "trigger": "Sign up",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jslsx6zik",
+      "step": 2,
+      "timestamp": 1791827461688,
+      "totalScore": 0,
+      "trigger": "Log in",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jslsx6zik",
+      "step": 3,
+      "timestamp": 1791827469901,
+      "totalScore": 0,
+      "trigger": "Explore",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jw5voohob",
+      "step": 1,
+      "timestamp": 1791827622329,
+      "totalScore": 0,
+      "trigger": "Community",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jw5voohob",
+      "step": 2,
+      "timestamp": 1791827635160,
+      "totalScore": 0,
+      "trigger": "Explore",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "dribbble.com",
+      "path": "/tags/ecommerce",
+      "sessionId": "mv5jw5voohob",
+      "step": 3,
+      "timestamp": 1791827642441,
+      "totalScore": 0,
+      "trigger": "Hire Talent",
+      "url": "https://dribbble.com/tags/ecommerce"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "geeksforgeeks.org",
+      "path": "/courses",
+      "sessionId": "mv5j3ynpz33l",
+      "step": 1,
+      "timestamp": 1791826318819,
+      "totalScore": 1,
+      "trigger": "DSA / Placements",
+      "url": "https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "geeksforgeeks.org",
+      "path": "/courses/category/data-analytics-data-science",
+      "sessionId": "mv5j4r988mcy",
+      "step": 1,
+      "timestamp": 1791826353775,
+      "totalScore": 1,
+      "trigger": "Apply Now!",
+      "url": "https://www.geeksforgeeks.org/courses/category/data-analytics-data-science?_gl=1*g9hne7*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses",
+      "sessionId": "mv5j3ynpz33l",
+      "step": 2,
+      "timestamp": 1791826354270,
+      "totalScore": 0,
+      "trigger": "DA / Data Science & AI",
+      "url": "https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE"
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/courses",
+      "sessionId": "mv5j3ynpz33l",
+      "step": 3,
+      "timestamp": 1791826392937,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkBpgspFPOK4MP9zTmD4YJhXq&gclid=CjwKCAjwirLWBhBBEiwAlItbElrTQOwf6GJ0xOHDyJrJ_V9VYpMZE7qJhUD1jPAaZnM-rFMJfj-93xoCqFgQAvD_BwE"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 1,
+      "timestamp": 1791826590490,
+      "totalScore": 1,
+      "trigger": "Sign In",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 2,
+      "timestamp": 1791826592073,
+      "totalScore": 0,
+      "trigger": "<span>",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 3,
+      "timestamp": 1791826602540,
+      "totalScore": 0,
+      "trigger": "Toggle GFG Theme",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 4,
+      "timestamp": 1791826603505,
+      "totalScore": 0,
+      "trigger": "Toggle GFG Theme",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "1 popup-like element(s) appeared within 1s"
+          ]
+        }
+      },
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 5,
+      "timestamp": 1791826610155,
+      "totalScore": 1,
+      "trigger": "Sign In",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 6,
+      "timestamp": 1791826614337,
+      "totalScore": 0,
+      "trigger": "<span>",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 7,
+      "timestamp": 1791826635480,
+      "totalScore": 0,
+      "trigger": "DSA",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "geeksforgeeks.org",
+      "path": "/",
+      "sessionId": "mv5j9z11dpk2",
+      "step": 8,
+      "timestamp": 1791827323842,
+      "totalScore": 0,
+      "trigger": "Problem of the Day",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jf6qf02a4",
+      "step": 1,
+      "timestamp": 1791826822119,
+      "totalScore": 1,
+      "trigger": "<div>",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 3,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "3 popup-like element(s) appeared within 1s"
+          ]
+        },
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jfjoq7zp0",
+      "step": 1,
+      "timestamp": 1791826838705,
+      "totalScore": 4,
+      "trigger": "Shopping Bag",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jfjoq7zp0",
+      "step": 2,
+      "timestamp": 1791826841185,
+      "totalScore": 1,
+      "trigger": "<div>",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jfjoq7zp0",
+      "step": 3,
+      "timestamp": 1791826844777,
+      "totalScore": 1,
+      "trigger": "<div>",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5ji55kmmzt",
+      "step": 1,
+      "timestamp": 1791826964335,
+      "totalScore": 1,
+      "trigger": "<button>",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5ji55kmmzt",
+      "step": 2,
+      "timestamp": 1791826965751,
+      "totalScore": 1,
+      "trigger": "Nykaa Fashion",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5ji55kmmzt",
+      "step": 3,
+      "timestamp": 1791826968554,
+      "totalScore": 1,
+      "trigger": "Sign in",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5ji55kmmzt",
+      "step": 4,
+      "timestamp": 1791826970008,
+      "totalScore": 1,
+      "trigger": "<div>",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 3,
+          "label": "Repeated Popups / Overlays",
+          "samples": [
+            "3 popup-like element(s) appeared within 1s"
+          ]
+        },
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jip5j52a7",
+      "step": 1,
+      "timestamp": 1791826992473,
+      "totalScore": 4,
+      "trigger": "Shopping Bag",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jip5j52a7",
+      "step": 2,
+      "timestamp": 1791826994650,
+      "totalScore": 1,
+      "trigger": "Back Button",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 1,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "Ends In:"
+          ]
+        }
+      },
+      "domain": "nykaa.com",
+      "path": "/",
+      "sessionId": "mv5jip5j52a7",
+      "step": 3,
+      "timestamp": 1791826998820,
+      "totalScore": 1,
+      "trigger": "Get App",
+      "url": "https://www.nykaa.com/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Talk With a Data Expert Let’s have a quick chat about the data you need so"
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ht4kvcvv",
+      "step": 1,
+      "timestamp": 1792345949167,
+      "totalScore": 1,
+      "trigger": "Start now",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4ht4kvcvv",
+      "step": 2,
+      "timestamp": 1792345951632,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "context": "page",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4mgp5mtos",
+      "step": 1,
+      "timestamp": 1792346171158,
+      "totalScore": 0,
+      "trigger": "Retail Insights",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Talk With a Data Expert Let’s have a quick chat about the data you need so"
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4q6okt2ky",
+      "step": 1,
+      "timestamp": 1792346341181,
+      "totalScore": 1,
+      "trigger": "Start now",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4q6okt2ky",
+      "step": 2,
+      "timestamp": 1792346352482,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE#anc_insights",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4r8xwkq9w",
+      "step": 1,
+      "timestamp": 1792346396375,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Talk With a Data Expert Let’s have a quick chat about the data you need so"
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4rr4kbbfk",
+      "step": 1,
+      "timestamp": 1792346411066,
+      "totalScore": 1,
+      "trigger": "Start now",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4snmkm963",
+      "step": 1,
+      "timestamp": 1792346461490,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4tu5256td",
+      "step": 1,
+      "timestamp": 1792346513416,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "nagging": {
+          "count": 1,
+          "label": "Popups / overlays (non-consent)",
+          "samples": [
+            "Close Talk With a Data Expert Let’s have a quick chat about the data you need so"
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4usyceo0l",
+      "step": 1,
+      "timestamp": 1792346557829,
+      "totalScore": 1,
+      "trigger": "Start now",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "brightdata.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/lp/web-data/ecommerce-web-data-2",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4usyceo0l",
+      "step": 2,
+      "timestamp": 1792346563364,
+      "totalScore": 0,
+      "trigger": "Close",
+      "url": "https://brightdata.com/lp/web-data/ecommerce-web-data-2?kw=productdatafeed&cpn=24104118846&utm_matchtype=b&cq_src=google_ads&cq_cmp=24104118846&cq_term=productdatafeed&cq_plac=&cq_net=g&cq_plt=gp&utm_term=productdatafeed&utm_campaign=Insights_APAC_Search_Ecom-generic_Desktop&utm_source=adwords&utm_medium=ppc&utm_content=&hsa_acc=1393175403&hsa_cam=24104118846&hsa_grp=201882197191&hsa_ad=827090239361&hsa_src=g&hsa_tgt=kwd-297741807&hsa_kw=productdatafeed&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3NHWBhANEiwAtpwId1-hRMhOXBsNtPvC9v0pZSY7WFIvYVbabFPArJuFTwPMj_oD-Q0xAxoCI3IQAvD_BwE",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4lo1yzw7n",
+      "step": 1,
+      "timestamp": 1792346132043,
+      "totalScore": 1,
+      "trigger": "Translate Page Content",
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4lo1yzw7n",
+      "step": 2,
+      "timestamp": 1792346138358,
+      "totalScore": 1,
+      "trigger": "Divisions",
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "popup",
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4lo1yzw7n",
+      "step": 3,
+      "timestamp": 1792346143724,
+      "totalScore": 1,
+      "trigger": "Division of Consumer Protection",
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~6400.0x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "commerce.utah.gov",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4opns1pm7",
+      "step": 1,
+      "timestamp": 1792346290491,
+      "totalScore": 1,
+      "trigger": "<button>",
+      "url": "https://commerce.utah.gov/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 1,
+      "timestamp": 1792345448007,
+      "totalScore": 5,
+      "trigger": "Get a demo",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 2,
+      "timestamp": 1792345453364,
+      "totalScore": 5,
+      "trigger": "<flowise-chatbot>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 3,
+      "timestamp": 1792345455501,
+      "totalScore": 5,
+      "trigger": "<div>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 4,
+      "timestamp": 1792345456567,
+      "totalScore": 5,
+      "trigger": "<div>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 5,
+      "timestamp": 1792345458045,
+      "totalScore": 5,
+      "trigger": "<flowise-chatbot>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 6,
+      "timestamp": 1792345459149,
+      "totalScore": 5,
+      "trigger": "<div>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 7,
+      "timestamp": 1792345461466,
+      "totalScore": 5,
+      "trigger": "<flowise-chatbot>",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 8,
+      "timestamp": 1792345474165,
+      "totalScore": 5,
+      "trigger": "Platform",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "visualAsymmetry": {
+          "count": 5,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe to our newsletter\" is ~5467.5x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\"",
+            "\"Subscribe to our newsletter\" is ~21.6x larger than \"Skip navigation\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "intershop.com",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/en/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4745nu4x0",
+      "step": 9,
+      "timestamp": 1792345480481,
+      "totalScore": 5,
+      "trigger": "Customers",
+      "url": "https://www.intershop.com/en/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "context": "popup",
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4y09piler",
+      "step": 1,
+      "timestamp": 1792346704305,
+      "totalScore": 0,
+      "trigger": "<span>",
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "context": "popup",
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve4znsaihce",
+      "step": 1,
+      "timestamp": 1792346778680,
+      "totalScore": 0,
+      "trigger": "<span>",
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "context": "popup",
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve51mi1ygi8",
+      "step": 1,
+      "timestamp": 1792346871315,
+      "totalScore": 0,
+      "trigger": "<span>",
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "close",
+      "categories": {},
+      "context": "popup",
+      "domain": "ippbonline.bank.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/web/ippb/personal",
+      "rulesVersion": "2.0",
+      "sessionId": "mve51mi1ygi8",
+      "step": 2,
+      "timestamp": 1792346874047,
+      "totalScore": 0,
+      "trigger": "<button>",
+      "url": "https://ippbonline.bank.in/web/ippb/personal",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve52tv18qdv",
+      "step": 1,
+      "timestamp": 1792346932274,
+      "totalScore": 2,
+      "trigger": "HOME",
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "other",
+      "categories": {
+        "hiddenDecline": {
+          "count": 1,
+          "label": "Low-prominence decline option",
+          "samples": [
+            "\"Skip to content\": contrast 2.6:1, 16px, opacity 1"
+          ]
+        },
+        "visualAsymmetry": {
+          "count": 1,
+          "label": "Visual asymmetry (accept vs decline)",
+          "samples": [
+            "\"Subscribe\" is ~7209.7x larger than \"Skip to content\""
+          ]
+        }
+      },
+      "context": "page",
+      "domain": "pharmahelp.in",
+      "extVersion": "2.0.0",
+      "meta": {
+        "consentBanners": 0,
+        "consentBannersSoFar": 0
+      },
+      "path": "/list-of-popular-or-top-e-commerce-website-in-india/",
+      "rulesVersion": "2.0",
+      "sessionId": "mve55ofq5908",
+      "step": 1,
+      "timestamp": 1792347062581,
+      "totalScore": 2,
+      "trigger": "CAREER IN PHARMA",
+      "url": "http://pharmahelp.in/list-of-popular-or-top-e-commerce-website-in-india/",
+      "viewport": {
+        "h": 812,
+        "w": 1440
+      }
+    },
+    {
+      "action": "accept",
+      "categories": {},
+      "domain": "apple.com",
+      "path": "/apple-vision-pro/",
+      "sessionId": "mveqi0amwe0a",
+      "step": 1,
+      "timestamp": 1792382915094,
+      "totalScore": 0,
+      "trigger": "Buy Apple Vision Pro",
+      "url": "https://www.apple.com/apple-vision-pro/"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite",
+            "※ New subscribers only. $11.99/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limite"
+          ]
+        }
+      },
+      "domain": "apple.com",
+      "path": "/store",
+      "sessionId": "mveqiv4oeacs",
+      "step": 1,
+      "timestamp": 1792382947884,
+      "totalScore": 2,
+      "trigger": "<img>",
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 1,
+      "timestamp": 1792383835392,
+      "totalScore": 0,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 2,
+      "timestamp": 1792383840224,
+      "totalScore": 0,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 3,
+      "timestamp": 1792383852926,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 4,
+      "timestamp": 1792383863090,
+      "totalScore": 0,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 5,
+      "timestamp": 1792383867564,
+      "totalScore": 0,
+      "trigger": "<div>",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 6,
+      "timestamp": 1792383873763,
+      "totalScore": 0,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 7,
+      "timestamp": 1792383874993,
+      "totalScore": 0,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 8,
+      "timestamp": 1792383880571,
+      "totalScore": 2,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 9,
+      "timestamp": 1792383881572,
+      "totalScore": 2,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 10,
+      "timestamp": 1792383894543,
+      "totalScore": 2,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 11,
+      "timestamp": 1792383900107,
+      "totalScore": 2,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 12,
+      "timestamp": 1792383904851,
+      "totalScore": 2,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 13,
+      "timestamp": 1792383914925,
+      "totalScore": 2,
+      "trigger": "<div>",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 14,
+      "timestamp": 1792383915973,
+      "totalScore": 2,
+      "trigger": "Hide",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {
+        "urgency": {
+          "count": 2,
+          "label": "Urgency / Countdown",
+          "samples": [
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi",
+            "One thing that I have found to work was taking a step by step approach rather than hurry. The initial step I took was to learn one programmi"
+          ]
+        }
+      },
+      "domain": "quora.com",
+      "path": "/Is-GeeksforGeeks-good-for-learning-DSA",
+      "sessionId": "mver1pnhd4gl",
+      "step": 15,
+      "timestamp": 1792383922094,
+      "totalScore": 2,
+      "trigger": "Undo",
+      "url": "https://www.quora.com/Is-GeeksforGeeks-good-for-learning-DSA"
+    },
+    {
+      "action": "other",
+      "categories": {},
+      "domain": "sell.do",
+      "path": "/",
+      "sessionId": "mveqlb7bxggr",
+      "step": 1,
+      "timestamp": 1792383067501,
+      "totalScore": 0,
+      "trigger": "Chat on WhatsApp",
+      "url": "https://www.sell.do/"
+    }
+  ]
+}

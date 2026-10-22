@@ -1,0 +1,9 @@
+model,features,n_test,MAE,RMSE,R2
+Baseline (next = now),-,46,3.826,14.777,-0.183
+Baseline (training mean),-,46,4.4,13.705,-0.017
+Linear regression,A. Current visit only,46,3.921,12.77,0.117
+Linear regression,B. + History,46,3.353,13.528,0.009
+Linear regression,C. + History + Actions,46,3.532,14.066,-0.072
+Random forest,A. Current visit only,46,3.788,13.076,0.074
+Random forest,B. + History,46,3.16,12.215,0.192
+Random forest,C. + History + Actions,46,3.133,12.187,0.195
